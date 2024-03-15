@@ -3,3 +3,6 @@ hms-harmful-brain-activity-classification/
 *.png
 *.ini
 *.xlsx
+.idea/
+input/
+__pycache__/
