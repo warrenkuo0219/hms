@@ -4,5 +4,7 @@ hms-harmful-brain-activity-classification/
 *.ini
 *.xlsx
 .idea/
-input/
 __pycache__/
+*.npy
+*.pdf
+*.parquet
